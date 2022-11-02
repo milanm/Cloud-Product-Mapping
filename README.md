@@ -13,7 +13,7 @@ Download [PDF version](Cloud%20Product%20Mapping.pdf).
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
 ## **AI & ML**
------------
+---
 
 ### **AWS**
 
@@ -29,7 +29,7 @@ If you like or are using this project to learn or start your solution, please gi
  
 
 ## **Application – Mgmt**
------------
+---
 
 ### **AWS**
 
@@ -45,7 +45,7 @@ If you like or are using this project to learn or start your solution, please gi
 
   
 ## **Application – Mobile**
------------
+---
 
 ### **AWS**
 
@@ -61,7 +61,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 
 ## **Automation**
---------------
+---
 
 ### **AWS**
 
@@ -77,8 +77,7 @@ If you like or are using this project to learn or start your solution, please gi
   
 
 ## **Compliance**
---------------
-
+---
 ### **AWS**
 
 [Artifact](https://aws.amazon.com/artifact/) | [Audit Manager](https://aws.amazon.com/audit-manager/) | [Compliance Center](https://aws.amazon.com/financial-services/security-compliance/compliance-center/)
@@ -93,7 +92,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 
 ## **Compute – Container**
----------------
+---
 
 ### **AWS**
 
@@ -109,7 +108,7 @@ If you like or are using this project to learn or start your solution, please gi
 
   
 ## **Compute – FaaS**
-------------------------
+---
 
 ### **AWS**
 
@@ -125,7 +124,7 @@ If you like or are using this project to learn or start your solution, please gi
   
 
 ## **Compute – Server**
---------------------
+---
 
 ### **AWS**
 
@@ -140,7 +139,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Compute Engine](https://cloud.google.com/compute) **|** [VMware Engine](https://cloud.google.com/vmware-engine)
 
 ## **Cost**
---------
+---
 
 ### **AWS**
 
@@ -155,7 +154,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cost Management](https://cloud.google.com/cost-management) | [Recommender](https://cloud.google.com/recommender/docs/overview) | [Pricing Calculator](https://cloud.google.com/products/calculator/)
 
 ## **Data – Analytics**
---------------------
+---
 
 ### **AWS**
 
@@ -171,7 +170,7 @@ If you like or are using this project to learn or start your solution, please gi
 
  
 ## **Data – Big Data**
--------------------
+---
 
 ### **AWS**
 
@@ -187,8 +186,7 @@ If you like or are using this project to learn or start your solution, please gi
 
   
 ## **Data – Database**
--------------------
-
+---
 ### **AWS**
 
 [DocumentDB](https://aws.amazon.com/documentdb/) | [DynamoDB](https://aws.amazon.com/dynamodb/) | [ElastiCache](https://aws.amazon.com/elasticache/) | [MemoryDB for Redis](https://aws.amazon.com/memorydb/) | [RDS](https://aws.amazon.com/rds/) | [SimpleDB](https://aws.amazon.com/simpledb/)
@@ -203,7 +201,7 @@ If you like or are using this project to learn or start your solution, please gi
 
   
 ## **Data – Data Lake**
---------------------
+---
 
 ### **AWS**
 
@@ -219,7 +217,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 
 ## **Data – DWH**
---------------
+---
 
 ### **AWS**
 
@@ -235,7 +233,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 
 ## **DevOps**
-----------
+---
 
 ### **AWS**
 
@@ -250,7 +248,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Artifact Registry](https://cloud.google.com/artifact-registry) | [Binary Authorization](https://cloud.google.com/binary-authorization) | [Cloud Build](https://cloud.google.com/build) | [Cloud Deploy](https://cloud.google.com/deploy) | [Cloud Operations Suite (Stackdriver)](https://cloud.google.com/products/operations) | [Cloud Source Repositories](https://cloud.google.com/source-repositories/) | [Tekton](https://tekton.dev/)
 
 ## **Email**
----------
+---
 
 ### **AWS**
 
@@ -265,7 +263,7 @@ If you like or are using this project to learn or start your solution, please gi
 –
 
 ## **ETL**
--------
+---
 
 ### **AWS**
 
@@ -280,7 +278,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Data Fusion](https://cloud.google.com/data-fusion) | [Dataprep by Trifacta](https://cloud.google.com/dataprep)
 
 ## **Firewall**
-------------
+---
 
 ### **AWS**
 
@@ -295,7 +293,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Armor](https://cloud.google.com/armor)
 
 ## **Hybrid**
-----------
+---
 
 ### **AWS**
 
@@ -310,7 +308,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Anthos](https://cloud.google.com/anthos) | [Distributed Cloud](https://cloud.google.com/distributed-cloud)
 
 ## **Identity**
-------------
+-----
 
 ### **AWS**
 
@@ -340,7 +338,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud IoT Solutions](https://cloud.google.com/solutions/iot) | [IoT Core](https://cloud.google.com/iot-core)
 
 ## **Key & Secret**
-----------------
+---------
 
 ### **AWS**
 
@@ -370,7 +368,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Audit Logs](https://cloud.google.com/audit-logs) | [Cloud Logging](https://cloud.google.com/logging)
 
 ## **Messaging**
--------------
+------
 
 ### **AWS**
 
@@ -385,7 +383,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Pub/Sub](https://cloud.google.com/pubsub) | [Firebase Cloud Messaging (FCM)](https://firebase.google.com/docs/cloud-messaging/)
 
 ## **Migration**
--------------
+------
 
 ### **AWS**
 
@@ -400,7 +398,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Database Migration Service](https://cloud.google.com/database-migration) | [Migrate for Compute Engine](https://cloud.google.com/migrate/compute-engine) | [Storage Transfer Service](https://cloud.google.com/storage-transfer-service) | [Transfer Appliance](https://cloud.google.com/transfer-appliance/docs/4.0/overview)
 
 ## **Monitoring**
---------------
+-------
 
 ### **AWS**
 
@@ -415,7 +413,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Monitoring](https://cloud.google.com/monitoring) | [Cloud Trace](https://cloud.google.com/trace) | [Error Reporting](https://cloud.google.com/error-reporting) | [Firebase Performance Monitoring](https://firebase.google.com/docs/perf-mon) | [Network Intelligence Center](https://cloud.google.com/network-intelligence-center)
 
 ## **Network – CDN**
------------------
+----------
 
 ### **AWS**
 
@@ -430,7 +428,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud CDN](https://cloud.google.com/cdn/)
 
 ## **Network – Connection**
-------------------------
+----------
 
 ### **AWS**
 
@@ -445,7 +443,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Router](https://cloud.google.com/network-connectivity/docs/router) | [Cloud VPN](https://cloud.google.com/network-connectivity/docs/vpn) | [Network Connectivity Center](https://cloud.google.com/network-connectivity-center)
  
 ## **Network – Core**
-------------------
+-----------
 
 ### **AWS**
 
@@ -460,7 +458,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc)
 
 ## **Network – DNS**
------------------
+----------
 
 ### **AWS**
 
@@ -475,7 +473,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud DNS](https://cloud.google.com/dns) | [Cloud Domains](https://cloud.google.com/domains/docs) 
 
 ## **Network – LB**
-----------------
+---------
 
 ### **AWS**
 
@@ -490,7 +488,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Load Balancing](https://cloud.google.com/load-balancing) | [Traffic Director](https://cloud.google.com/traffic-director)
 
 ## **Network – MISC.**
--------------------
+------------
 
 ### **AWS**
 
@@ -505,7 +503,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud NAT](https://cloud.google.com/nat/docs) | [Network Intelligence Center](https://cloud.google.com/network-intelligence-center) | [Network Service Tiers](https://cloud.google.com/network-tiers)
 
 ## **Optimization**
-----------------
+---------
 
 ### **AWS**
 
@@ -535,7 +533,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Tasks](https://cloud.google.com/tasks)
 
 ## **Resource Mgmt**
------------------
+----------
 
 ### **AWS**
 
@@ -565,7 +563,7 @@ If you like or are using this project to learn or start your solution, please gi
 [SAP on Google Cloud](https://cloud.google.com/solutions/sap)
 
 ## **Security**
-------------
+-----
 
 ### **AWS**
 
@@ -580,7 +578,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Armor](https://cloud.google.com/armor/) | [Security Command Center](https://cloud.google.com/security-command-center)
 
 ## **Storage**
------------
+----
 
 ### **AWS**
 
@@ -595,7 +593,7 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Storage](https://cloud.google.com/storage) | [Filestore](https://cloud.google.com/filestore) | [Persistent Disk](https://cloud.google.com/persistent-disk)
 
 ## **Workflow**
-------------
+-----
 
 ### **AWS**
 
