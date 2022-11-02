@@ -1,6 +1,6 @@
 # Cloud Product Mapping (AWS vs Azure vs GCP)
 
-As we can see a lot of companies today decide to go with a multi-cloud strategy. Here I prepared a document where all major services between AWS, Azure, and GCP are mapped with links pointing to product home pages. 
+As we can see a lot of companies today decide to go with a multi-cloud strategy. Here is the overview where all major services between AWS, Azure, and GCP are mapped with links pointing to product home pages. 
 
 Updated on November 2022.
 
