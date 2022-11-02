@@ -6,7 +6,7 @@ Updated on November 2022.
 
 ![Cloud Product Mapping](CloudProductMapping.png)
 
-Download [PDF version](Cloud%20Product%20Mapping.pdf).
+Download full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf).
 
 ## Give a Star! :star:
 
