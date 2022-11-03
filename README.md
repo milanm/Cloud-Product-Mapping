@@ -57,7 +57,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **GCP**
 
-[AdMob and Firebase](https://firebase.google.com/docs/admob)
+[AdMob and Firebase](https://firebase.google.com/docs/admob) | [Firebase](https://firebase.google.com/)
 
 
 ## **Automation**
