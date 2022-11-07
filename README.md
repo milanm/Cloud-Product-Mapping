@@ -74,7 +74,7 @@ If you like or are using this project to learn or start your solution, please gi
 ### **GCP**
 
 –
-  
+
 
 ## **Compliance**
 
@@ -100,7 +100,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **Azure**
 
-[Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-au/services/kubernetes-service/) | [Container Instances](https://azure.microsoft.com/en-au/services/container-instances/) | [Container Registry](https://azure.microsoft.com/en-gb/services/container-registry/)
+[Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-au/services/kubernetes-service/) | [Container Instances](https://azure.microsoft.com/en-au/services/container-instances/) | [Container Registry](https://azure.microsoft.com/en-gb/services/container-registry/) | [Container Apps](https://azure.microsoft.com/en-us/products/container-apps/)
 
 ### **GCP**
 
