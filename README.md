@@ -301,7 +301,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **Azure**
 
-[Azure Arc](https://azure.microsoft.com/en-au/services/azure-arc/) | [Azure Stack](https://azure.microsoft.com/en-au/overview/azure-stack/)
+[Azure Arc](https://azure.microsoft.com/en-au/services/azure-arc/) | [Azure Stack](https://azure.microsoft.com/en-au/overview/azure-stack/) | [Azure Stack Hub](https://azure.microsoft.com/en-us/products/azure-stack/hub/) | [Azure Stack HCI](https://azure.microsoft.com/en-us/products/azure-stack/hci/) | [Azure Stack Edge](https://azure.microsoft.com/en-us/products/azure-stack/edge/)
 
 ### **GCP**
 
