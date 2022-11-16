@@ -575,7 +575,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **GCP**
 
-[Cloud Armor](https://cloud.google.com/armor/) | [Security Command Center](https://cloud.google.com/security-command-center)
+[Cloud Armor](https://cloud.google.com/armor/) | [Security Command Center](https://cloud.google.com/security-command-center) | [Chronicle](https://cloud.google.com/chronicle/docs/overview)
 
 ## **Storage**
 -
