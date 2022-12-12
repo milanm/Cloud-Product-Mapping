@@ -2,7 +2,7 @@
 
 As we can see a lot of companies today decide to go with a multi-cloud strategy. Here is the overview where all major services between AWS, Azure, and GCP are mapped with links pointing to product home pages. 
 
-Updated on November 2022.
+Updated on December 2022.
 
 ![Cloud Product Mapping](CloudProductMapping.png)
 
@@ -189,11 +189,11 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **AWS**
 
-[DocumentDB](https://aws.amazon.com/documentdb/) | [DynamoDB](https://aws.amazon.com/dynamodb/) | [ElastiCache](https://aws.amazon.com/elasticache/) | [MemoryDB for Redis](https://aws.amazon.com/memorydb/) | [RDS](https://aws.amazon.com/rds/) | [SimpleDB](https://aws.amazon.com/simpledb/)
+[DocumentDB](https://aws.amazon.com/documentdb/) | [DynamoDB](https://aws.amazon.com/dynamodb/) | [ElastiCache](https://aws.amazon.com/elasticache/) | [MemoryDB for Redis](https://aws.amazon.com/memorydb/) | [RDS](https://aws.amazon.com/rds/) | [SimpleDB](https://aws.amazon.com/simpledb/) | [Amazon Aurora](https://aws.amazon.com/rds/aurora/serverless) | [Amazon Neptune](https://aws.amazon.com/neptune/)
 
 ### **Azure**
 
-[Cache for Redis](https://azure.microsoft.com/en-gb/services/cache/) | [Cosmos DB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MariaDB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MySQL](https://azure.microsoft.com/en-gb/services/mysql/) | [Databased for PostgreSQL](https://azure.microsoft.com/en-gb/services/postgresql/) | [SQL Database](https://azure.microsoft.com/en-gb/products/azure-sql/database/)
+[Cache for Redis](https://azure.microsoft.com/en-gb/services/cache/) | [Cosmos DB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MariaDB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MySQL](https://azure.microsoft.com/en-gb/services/mysql/) | [Databased for PostgreSQL](https://azure.microsoft.com/en-gb/services/postgresql/) | [SQL Database](https://azure.microsoft.com/en-gb/products/azure-sql/database/) | [Azure SQL Database serverless](https://learn.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
 
 ### **GCP**
 
@@ -548,7 +548,6 @@ If you like or are using this project to learn or start your solution, please gi
 [Cloud Asset Inventory](https://cloud.google.com/asset-inventory) | [Organization](https://cloud.google.com/resource-manager/docs/creating-managing-organization) | [Projects](https://cloud.google.com/storage/docs/projects) | [Resource Manager](https://cloud.google.com/resource-manager)
 
 ## **SAP**
--
 
 ### **AWS**
 
@@ -563,7 +562,6 @@ If you like or are using this project to learn or start your solution, please gi
 [SAP on Google Cloud](https://cloud.google.com/solutions/sap)
 
 ## **Security**
---
 
 ### **AWS**
 
