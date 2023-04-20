@@ -2,7 +2,7 @@
 
 As we can see a lot of companies today decide to go with a multi-cloud strategy. Here is the overview where all major services between AWS, Azure, and GCP are mapped with links pointing to product home pages. 
 
-Updated on December 2022.
+Updated on April 2023.
 
 ![Cloud Product Mapping](CloudProductMapping.png)
 
@@ -193,7 +193,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **Azure**
 
-[Cache for Redis](https://azure.microsoft.com/en-gb/services/cache/) | [Cosmos DB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MariaDB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MySQL](https://azure.microsoft.com/en-gb/services/mysql/) | [Databased for PostgreSQL](https://azure.microsoft.com/en-gb/services/postgresql/) | [SQL Database](https://azure.microsoft.com/en-gb/products/azure-sql/database/) | [Azure SQL Database serverless](https://learn.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
+[Cache for Redis](https://azure.microsoft.com/en-gb/services/cache/) | [Cosmos DB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MariaDB](https://azure.microsoft.com/en-gb/services/mariadb/) | [Database for MySQL](https://azure.microsoft.com/en-gb/services/mysql/) | [Databased for PostgreSQL](https://azure.microsoft.com/en-gb/services/postgresql/) | [Azure SQL Database](https://azure.microsoft.com/en-gb/products/azure-sql/database/) | [Azure SQL Database serverless](https://learn.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview) | [SQL Server on Azure VMs](https://azure.microsoft.com/en-us/products/virtual-machines/sql-server) | [Azure SQL Managed Instance](https://azure.microsoft.com/en-us/products/azure-sql/managed-instance/)
 
 ### **GCP**
 
