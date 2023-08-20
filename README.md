@@ -37,7 +37,7 @@ If you like or are using this project to learn or start your solution, please gi
  
 ### **Oracle**
 
-[Oracle Open Data](https://opendata.oraclecloud.com/ords/r/opendata/opendata/home) | Anomaly Detection()[https://www.oracle.com/artificial-intelligence/anomaly-detection/] | [Vision](https://www.oracle.com/artificial-intelligence/vision/) | [Fusion Analytics Warehouse](https://docs.oracle.com/en-us/iaas/analytics-for-applications/index.html) | (Speech)[https://www.oracle.com/artificial-intelligence/speech/] | (Document Understanding)[https://docs.oracle.com/en-us/iaas/document-understanding/document-understanding/using/home.htm] | (Language)[https://www.oracle.com/artificial-intelligence/language/] | (Forecasting)[https://www.oracle.com/artificial-intelligence/forecasting/] | (Data Labeling)[https://docs.oracle.com/iaas/data-labeling/data-labeling/using/home.htm] | (ML Pipelines)[https://docs.oracle.com/en-us/iaas/data-science/using/pipelines-create.htm#jobs_creating] | (Data Science)[https://www.oracle.com/data-science/cloud-infrastructure-data-science.html]
+[Oracle Open Data](https://opendata.oraclecloud.com/ords/r/opendata/opendata/home) | [Anomaly Detection](https://www.oracle.com/artificial-intelligence/anomaly-detection/) | [Vision](https://www.oracle.com/artificial-intelligence/vision/) | [Fusion Analytics Warehouse](https://docs.oracle.com/en-us/iaas/analytics-for-applications/index.html) | [Speech](https://www.oracle.com/artificial-intelligence/speech/) | [Document Understanding](https://docs.oracle.com/en-us/iaas/document-understanding/document-understanding/using/home.htm) | [Language](https://www.oracle.com/artificial-intelligence/language/) | [Forecasting](https://www.oracle.com/artificial-intelligence/forecasting/) | [Data Labeling](https://docs.oracle.com/iaas/data-labeling/data-labeling/using/home.htm) | [ML Pipelines](https://docs.oracle.com/en-us/iaas/data-science/using/pipelines-create.htm#jobs_creating) | [Data Science](https://www.oracle.com/data-science/cloud-infrastructure-data-science.html)
 
 
 ## **Application – Mgmt**
@@ -250,7 +250,7 @@ If you like or are using this project to learn or start your solution, please gi
   
 ### **Oracle**
 
-[Autonomous JSON Database](https://www.oracle.com/autonomous-database/autonomous-json-database/) | (Oracle Database Service for Azure)[https://www.oracle.com/cloud/azure/oracle-database-for-azure/] | (Oracle Base Database Service)[https://docs.oracle.com/en/cloud/paas/bm-and-vm-dbs-cloud/index.html] | (Autonomous Transaction Processing)[https://www.oracle.com/autonomous-database/autonomous-transaction-processing/] | (MySQL Heatwave database)[https://www.oracle.com/mysql/] | (Autonomous Database)[https://www.oracle.com/autonomous-database/]
+[Autonomous JSON Database](https://www.oracle.com/autonomous-database/autonomous-json-database/) | [Oracle Database Service for Azure](https://www.oracle.com/cloud/azure/oracle-database-for-azure/) | [Oracle Base Database Service](https://docs.oracle.com/en/cloud/paas/bm-and-vm-dbs-cloud/index.html) | [Autonomous Transaction Processing](https://www.oracle.com/autonomous-database/autonomous-transaction-processing/) | [MySQL Heatwave database](https://www.oracle.com/mysql/) | [Autonomous Database](https://www.oracle.com/autonomous-database/)
 
 ## **Data – Data Lake**
 
@@ -288,7 +288,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **Oracle**
 
-[Autonomous Data Warehouse](https://www.oracle.com/autonomous-database/autonomous-data-warehouse/) | (MySQL Heatwave database)[https://www.oracle.com/mysql/heatwave/] | (Autonomous Database)[https://www.oracle.com/autonomous-database/]
+[Autonomous Data Warehouse](https://www.oracle.com/autonomous-database/autonomous-data-warehouse/) | [MySQL Heatwave database](https://www.oracle.com/mysql/heatwave/) | [Autonomous Database](https://www.oracle.com/autonomous-database/)
 
 
 ## **DevOps**
@@ -347,7 +347,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **Oracle**
 
-[Data Integrator](https://www.oracle.com/integration/data-integrator-enterprise-edition/) | (App Integration)[https://www.oracle.com/integration/application-integration/]
+[Data Integrator](https://www.oracle.com/integration/data-integrator-enterprise-edition/) | [App Integration](https://www.oracle.com/integration/application-integration/)
 
 ## **Firewall**
 
@@ -499,7 +499,6 @@ If you like or are using this project to learn or start your solution, please gi
 [Zero Downtime Migration](https://www.oracle.com/database/technologies/rac/zdm.html) | [Database Migration Service](https://www.oracle.com/database/technologies/cloud-migration.html) | [Oracle Cloud Migrations](https://docs.oracle.com/en-us/iaas/Content/cloud-migration/home.htm) | [Data Transfer](https://www.oracle.com/cloud/storage/data-transfer/)
 
 ## **Monitoring**
--
 
 ### **AWS**
 
@@ -515,7 +514,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **Oracle**
 
-[Management Agent](https://docs.oracle.com/iaas/management-agents/index.html) | (Virtual Test Access Points)[https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/vtap.htm] | (Inter-Region Latency)[https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/inter_region_latency.htm] | (Network Visualizer)[https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/network_visualizer.htm]
+[Management Agent](https://docs.oracle.com/iaas/management-agents/index.html) | [Virtual Test Access Points](https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/vtap.htm) | [Inter-Region Latency](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/inter_region_latency.htm) | [Network Visualizer](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/network_visualizer.htm)
 
 ## **Network – CDN**
 -
