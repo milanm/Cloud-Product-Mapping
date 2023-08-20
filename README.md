@@ -192,7 +192,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ### **Oracle**
 
-[Cost Estimator](https://www.oracle.com/cloud/costestimator.html) | (Oracle Support Rewards)[https://www.oracle.com/cloud/rewards/] | (Budgets)[https://docs.oracle.com/en-us/iaas/Content/Billing/Concepts/budgetsoverview.htm#Budgets_Overview] | (Cost Analysis)[https://docs.oracle.com/en-us/iaas/Content/Billing/Concepts/costanalysisoverview.htm#Cost_Analysis_Overview] | [Operations Insights](https://www.oracle.com/manageability/operations-insights/)
+[Cost Estimator](https://www.oracle.com/cloud/costestimator.html) | [Oracle Support Rewards](https://www.oracle.com/cloud/rewards/) | [Budgets](https://docs.oracle.com/en-us/iaas/Content/Billing/Concepts/budgetsoverview.htm#Budgets_Overview) | [Cost Analysis](https://docs.oracle.com/en-us/iaas/Content/Billing/Concepts/costanalysisoverview.htm#Cost_Analysis_Overview) | [Operations Insights](https://www.oracle.com/manageability/operations-insights/)
 
 ## **Data – Analytics**
 
