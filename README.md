@@ -10,12 +10,6 @@ Updated on August 2023.
 
 Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf).
 
-**Digested:**
-
-![Cloud Product Mapping](CloudComparison.png)
-
-Download the mapping in the [PDF version](Cloud%20Comparison%20Cheat%20Sheet.pdf).
-
 ## Give a Star! :star:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
