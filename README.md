@@ -6,9 +6,9 @@ Updated on August 2023.
 
 **Full Comparison:**
 
-![Cloud Product Mapping](CloudProductMapping.png)
+![Cloud Product Mapping](CloudProductMappingBrief.png)
 
-Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf).
+Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf) or [PNG version](CloudProductMapping.png).
 
 ## Give a Star! :star:
 
