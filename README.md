@@ -4,8 +4,6 @@ As we can see a lot of companies today decide to go with a multi-cloud strategy.
 
 Updated on August 2023.
 
-**Full Comparison:**
-
 ![Cloud Product Mapping](CloudProductMappingBrief.png)
 
 Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf) or [PNG version](CloudProductMapping.png).
