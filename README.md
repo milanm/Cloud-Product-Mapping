@@ -8,11 +8,17 @@ Updated on October 2023.
 
 Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf) or [PNG version](CloudProductMapping.png).
 
-## Bonus: Monitoring Cheat Sheet
+## Bonus 1: Monitoring Cheat Sheet
 
 ![Monitoring Cheat Sheet](monitoring-cheating-sheet.png)
 
 Download the cheat sheet in the [PDF version](Monitoring%20cheating%20sheet.pdf) or [PNG version](monitoring-cheating-sheet.png).
+
+## Bonus 2: Cloud Databases
+
+![Cloud databases Cheat Sheet](Cloud-Databases.png)
+
+Download the cheat sheet in the [PDF version](Cloud%20Databases.pdf) or [PNG version](Cloud-Databases.png).
 
 ## Give a Star! :star:
 
