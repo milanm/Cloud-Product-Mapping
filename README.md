@@ -10,7 +10,7 @@ Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf) or
 
 ![Monitoring Cheat Sheet](monitoring-cheating-sheet.png)
 
-Download the cheat sheet in the [PDF version](Monitoring%20cheating%20sheet.pdf) or [PNG version](monitoring-cheating-sheet.png).
+Download the cheat sheet in the [PDF version](Monitoring%20cheating%20sheet.pdf), white background [PDF version](Monitoring%20cheat%20sheet-white.pdf) or [PNG version](monitoring-cheating-sheet.png).
 
 ## Bonus 2: Cloud Databases
 
