@@ -2,6 +2,12 @@
 
 As we can see a lot of companies today decide to go with a multi-cloud strategy. Here is the overview where all major services between AWS, Azure, GCP, and OCI are mapped with links pointing to product home pages. 
 
+## Support My Work
+
+If you find this repository helpful, consider supporting me on Patreon:
+
+[![Patreon](patreon.png)](https://www.patreon.com/techworld_with_milan)
+
 ![Cloud Product Mapping](CloudProductMappingBrief.png)
 
 Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf) or [PNG version](CloudProductMapping.png).
